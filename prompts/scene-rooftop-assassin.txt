@@ -1,49 +1,53 @@
-Image 4 is exact reference for the street. Keep character consistency for all human figures.
-
-<<<image_1>>>'s character as the hero — match precisely and strictly:
+@Image1's character as the hero — match precisely and strictly:
 dark wavy hair, blue eyes, long black trench coat. His RIGHT arm
 is entirely full cyberpunk metal from shoulder to hand — plated,
 mechanical, with red-accented joints. His LEFT hand and arm are
-completely normal human flesh exactly as on <<<image_1>>>. This
-asymmetry must be visible and accurate throughout every frame.
-<<<image_2>>> contains two distinct weapons — the tactical Glock-style
-pistol with teal-glowing circuits in his normal left hand, and the
-1911-style pistol with wood grip and teal-accented barrel in his
-full metal right hand. Both pistols lowered but ready.
-<<<image_3>>>'s assassin — white geometric hooded robe, brown leather
-armour straps at the chest, red sash at the waist, dark gloves.
-Match precisely. Scene set in <<<image_4>>>'s street — use as exact
-visual reference for all surfaces, architecture, light and depth.
-Background alive: cloth shifting, dust drifting, shadows moving.
+completely normal human flesh. This asymmetry must be visible and
+accurate throughout every frame. @Image2 contains two distinct
+weapons — the tactical Glock-style pistol with teal-glowing
+circuits in his normal left hand, and the 1911-style pistol with
+wood grip and teal-accented barrel in his full metal right hand.
+Both pistols lowered but ready. @Image3's assassin — white
+geometric hooded robe, brown leather armour straps at the chest,
+red sash at the waist, dark gloves. Match precisely. Scene set
+exactly in @Image4's street — use as precise visual reference for
+all surfaces, architecture, light and depth. Background alive
+throughout: cloth shifting, dust drifting, shadows moving.
 
-The hero moves through <<<image_4>>>'s street at a measured pace, both
-pistols lowered but ready. The camera tracks him at ground level,
-tight and close.
+0–1s: The hero moves through @Image4's street at a measured pace,
+both pistols lowered but ready. Camera tracks him at ground level,
+tight and close, coat in motion.
 
-A fast whip pan upward — the camera snaps to the rooftops above.
-<<<image_3>>>'s assassin is already sprinting full speed across the
+1–2s: Fast whip pan upward — the camera snaps to the rooftops.
+@Image3's assassin is already sprinting full speed across the
 roofline, white robes and hood streaming behind him, moving in
-complete silence against the sky, the golden dome visible in the
-distance beyond him. The shot is brief and kinetic — then the
-camera whips back down to the hero.
+complete silence against the sky. The golden dome is visible in
+the distance beyond him. The shot is brief and kinetic.
 
-The hero does not look up. His eyes stay forward. But something
-in the sound — a displaced stone, a shift in the air — registers.
-He slows almost imperceptibly. His head turns a fraction to one
-side, listening. Not reacting. Just knowing.
+2–3s: Whip pan back down to the hero. He moves forward. His pace
+hasn't changed — not yet.
 
-The tension holds for one beat. The street is still. The camera
-stays tight on the hero's face — the slight tension in his jaw,
-the stillness of a man who has already begun calculating.
+3–4s: Something registers. A faint scrape of stone above. A shift
+in the air. The hero slows almost imperceptibly. His head turns a
+fraction to one side. Listening. Not reacting. Just knowing.
+Camera closes tight on his face.
 
-Then above — <<<image_3>>> launches from the roof edge, white robes
-flying open, body dropping fast toward the hero below. The camera
-catches the leap from below — the assassin's silhouette against
-the sky, falling.
+4–5s: The tension holds. The street is still. Camera stays on the
+hero's face — the slight tension in his jaw, the stillness of a
+man who has already begun calculating. One beat. Nothing moves.
 
-Sound: Footsteps on stone cutting off as the hero slows, a faint
-scrape of a roof tile displaced above, wind through the street,
-the rush of air as the assassin falls. No music.
+5–6s: Above — @Image3 launches from the roof edge, white robes
+flying open, body dropping fast. Camera whips upward to catch the
+leap from below — the assassin's silhouette against the open sky,
+falling.
+
+6–7s: The assassin's silhouette darkens as it closes in fast from
+above, white robes spreading wide. The hero has not moved. He
+stands exactly where he is.
+
+Sound: Footsteps on stone, a faint scrape of a roof tile displaced
+above as the hero slows, wind through the street, the rush of air
+as the assassin falls. No music.
 Stylized 3D hand-painted animation, painterly brushstroke textures,
 dramatic chiaroscuro lighting, high contrast deep shadows, rich
 saturated colour palette, 4K cinematic quality, expensive production.
